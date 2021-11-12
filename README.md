@@ -1,8 +1,9 @@
 
 # An investigation of the mood in media across time and subsamples
-*Abstract* - In this project, we want to investigate how the mood in the media and the debate changes over time. We want to understand the general trends in the mood. For example, does the temper get better towards the weekend, or do we love Mondays deep inside? Is the mood better in the summer than in the winter?
+## Abstract
+In this project, we want to investigate how the mood in the media and the debate changes over time. We want to understand the general trends in the mood. For example, does the temper get better towards the weekend, or do we love Mondays deep inside? Is the mood better in the summer than in the winter?
 
-These are exciting questions that we talk about in everyday life. The media sets the agenda for discussion and essentially decides which cases reach the general public’s mind. It would be interesting to see how much negativity and positivity reaches the public. Additionally, it would be interesting to see how the mood changes across a subsample of speakers, for example, politicians. Are politicians more negative or positive than others? These questions will help us tell the story about the mood in the media.
+These are exciting questions that we talk about in everyday life. The media sets the agenda for discussion and essentially decides which cases reach the general public’s mind. It would be interesting to see how much negativity and positivity reaches the public, and how this varies across media outlets. Additionally, it would be interesting to see how the mood changes across a subsample of speakers, for example, politicians. Are politicians more negative or positive than others? These questions will help us tell the story about the mood in the media.
 
 ## Research Questions
 
@@ -13,10 +14,8 @@ All our research questions are under the umbrella
 More specifically, we want to investigate the following:
 * Do we see any general trends in the mood?
 * Are there any differences in mood based on weekdays, weeks, or months?
-* Do any subsamples differ from the general trends, for example, politicians?
-* Do we see any differences between men and women?
-Are there any differences in the mood across media outlets?
-
+* Do any subsamples differ from the general trends, for example, politicians or men/women?
+* Are there any differences in the mood across media outlets?
 
 
 ## Proposed additional datasets
@@ -30,14 +29,14 @@ We are using functions that match politicians from the Wikidata dataset to quote
  
 ## Methods
 The main methods we will use in this project are:
-* Hypothesis testing, in particular paired t-tests
+* Hypothesis testing, in particular paired t-tests and Welch's t-test
     * To test the significance of differences in mood
 * Confidence Intervals
     * To quantify the uncertainty in our results
 * Sentiment analysis by using the NLTK library for Python
     * We will use the sentiment.vader module to quantify the sentiment in quotes 
 
-The methods and their mathematical outlines are described in more detail in the notebook delivery.
+The methods and their mathematical outlines are described in more detail in the bottom of the notebook delivery.
 
 ## Proposed timeline
 The timeline stretches from 12 November to 17 December. We plan to finish the project by 12 December to spare some time for unforeseen problems and feedback from our teaching assistant. Most of the work is planned after 26 November as work with Homework 2 will be prioritized before 26 November.
@@ -48,11 +47,11 @@ __28 Nov__: Sentiment analysis and hypothesis testing for the mood over weeks/se
 
 __30 Nov__: Initial Github page created with non-polished results from the initial analyses.
 
-__3 Dec__: Completed sentiment analysis for subsamples of men and women and politicians.
+__3 Dec__: Completed sentiment analysis for media outlets.
 
 __3 Dec__: Speak with the Teaching Assistant about our current findings to identify what to prioritize for the last part of the project.
 
-__5 Dec__: Completed sentiment analysis for media outlets.
+__5 Dec__: Completed sentiment analysis for subsamples of men and women and politicians.
 
 __8 Dec__: Populated Github page with all analysis we want to include in the data story.
 
