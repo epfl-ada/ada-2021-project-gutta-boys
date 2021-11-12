@@ -1,17 +1,17 @@
 
 # An Investigation of the Mood in the Media Across Time and Subsamples
-*Abstract* - In this project, we want to investigate how the mood in the media and the debate changes over time. We want to understand the general trends in the mood. For example, does the temper get better towards the weekend, or do we love Mondays deep inside? Is the mood better in the summer than in the winter?
+*Abstract* - In this project, we want to investigate how the mood in the media and the debate changes over time and subsamples. We want to understand the general trends in the mood. For example, does the temper get better towards the weekend, or do we love Mondays deep inside? Is the mood better in the summer than in the winter?
 
-These are exciting questions that we talk about in everyday life. The media sets the agenda for discussion and essentially decides which cases reach the general public’s mind. It would be interesting to see how much negativity and positivity reaches the public, and how this varies across media outlets. Additionally, it would be interesting to see how the mood changes across a subsample of speakers, for example, politicians. Are politicians more negative or positive than others? These questions will help us tell the story about the mood in the media.
+These are exciting questions that we talk about in everyday life. The media sets the agenda for discussion and essentially decides which cases reach the general public’s mind. It would be interesting to see how much negativity and positivity reaches the public, and how this varies across media outlets. Additionally, it would be interesting to see how the mood changes across a subsample of speakers, for example, politicians. Are politicians more negative or positive than others?
+
 
 ## Research Questions
 
-All our research questions are under the umbrella 
+All our research questions are under the umbrella:
 
-*“How is the mood in the media?”* 
+*“How does the mood in the media differ across time and subsamples?”* 
 
 More specifically, we want to investigate the following:
-* Do we see any general trends in the mood?
 * Are there any differences in mood based on weekdays, weeks, or months?
 * Do any subsamples differ from the general trends, for example, politicians or men/women?
 * Are there any differences in the mood across media outlets?
