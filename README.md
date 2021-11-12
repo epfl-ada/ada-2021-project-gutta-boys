@@ -1,5 +1,5 @@
 
-# An investigation of the mood in media across time and subsamples
+# An Investigation of the Mood in the Media Across Time and Subsamples
 *Abstract* - In this project, we want to investigate how the mood in the media and the debate changes over time. We want to understand the general trends in the mood. For example, does the temper get better towards the weekend, or do we love Mondays deep inside? Is the mood better in the summer than in the winter?
 
 These are exciting questions that we talk about in everyday life. The media sets the agenda for discussion and essentially decides which cases reach the general public’s mind. It would be interesting to see how much negativity and positivity reaches the public. Additionally, it would be interesting to see how the mood changes across a subsample of speakers, for example, politicians. Are politicians more negative or positive than others? These questions will help us tell the story about the mood in the media.
