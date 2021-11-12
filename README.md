@@ -74,11 +74,11 @@ Each member will have a main responsibility for milestone 3. However, all member
 
 *__Name__: Responsibilities*
 
-__Asbjørn__: General processing and analysis in early phases, due 8 December and visualizations for data story due 12 December.
+__Asbjørn__: General processing and analysis in early phases, due 8 December and visualizations for data story, due 12 December.
 
-__Benjamin__: Sentiment analysis and hypothesis testing due 8 December.
+__Benjamin__: Sentiment analysis and hypothesis testing, due 8 December.
 
-__Marcus__: Processing and analysis involving the Wikidata set, i.e., men/women and politicians with due date 3 December.
+__Marcus__: Processing and analysis involving the Wikidata set, i.e., men/women and politicians, due 3 December.
 
 __Sigurd__: Written part of the final data story and visualizations, due 10 December.
 
