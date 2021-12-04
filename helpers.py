@@ -134,3 +134,50 @@ def to_dict(dictionary, chunk_column):
 
   chunk_column.apply(lambda x: add_dict(x, dictionary))
   return dictionary
+
+def find_media(url, medias_list):
+  ''' Returning the media outlet where the quote is found, 
+  but only if the outlet is present in medias_list.
+  
+  Parameters
+  ----------
+  url: array
+    An entry in the column 'urls' of the Quotebank dataset, where the first value is the first source where the quote was found.
+  
+  medias_list: array
+    An array containing some chosen media outlets, e.g., 'nytimes'.
+  
+  Returns
+  -------
+  media: str
+    The first entry in url if its present in medias_list.
+  '''
+
+  for string in medias_list:
+    url_string = str(url[0])
+    if string in url_string:
+      media = string
+      return media
+
+
+def get_media(chunk, medias_list):
+  ''' Adding column with the media outlet where the quote is first found, 
+  but only if the outlet is present in medias_list.
+  
+  Parameters
+  ----------
+  chunk: dataframe  
+    A chunk of the Quotebank dataset.
+
+  medias_list: array
+    An array containing some chosen media outlets represented as strings, e.g., 'nytimes'.
+
+  Returns
+  -------
+  chunk: dataframe
+    The given chunk of the dataset, now containing a column 'media_outlet' 
+    keeping the media where the quote was first found.
+  '''
+
+  chunk['media_outlet'] = chunk['urls'].apply(lambda x: find_media(x, medias_list))
+  return chunk
