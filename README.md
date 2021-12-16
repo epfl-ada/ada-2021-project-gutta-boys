@@ -42,7 +42,7 @@ The methods and their mathematical outlines are described in more detail in the 
 ## Proposed timeline
 The timeline for the project stretched over three milestones from 22 September to 17 December. 
 
-__Milestone 1 (22.09 – 08.10)__
+__Milestone 1 (22.09–08.10)__
 -	Made individual proposals for the project
 
 __Milestone 2 (08.10-12.11)__
@@ -52,20 +52,20 @@ __Milestone 2 (08.10-12.11)__
 
 __Milestone 3 (12.11-17.12)__
 
-Week 1 + 2 (12/11 - 21/11):
+Week 1 + 2 (12/11-21/11):
 -	Reviewing feedback from milestone 2
 
-Week 3 +4 (22/11 - 05/12):
+Week 3 + 4 (22/11-05/12):
 -	Loaded the datasets. Added the necessary attributes for the different tasks
 -	Initial sentiment analysis for time trend and subsamples
 -	Launching the Jekyll webpage
 
-Week 5 (06/11 - 12/11):
+Week 5 (06/11-12/11):
 -	Completed sentiment analysis for time trend
 -	Completed sentiment analysis for media outlets
 -	Finished draft for data story, including drafts for plots
 
-Week 6 (13/11 - 17/11):
+Week 6 (13/11-17/11):
 -	Completed sentiment analysis for subsamples of men and women and politicians.
 -	Spell-checking and other polishing of the data story finished. 
 -	Putting together the final and complete notebook for the project
