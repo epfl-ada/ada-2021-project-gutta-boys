@@ -31,11 +31,15 @@ We used functions that matched politicians from the Wikidata dataset to quotes f
 
 ## Methods
 The main methods used in this project are:
-•	Hypothesis testing, in particular paired t-tests and Welch's t-test
-•   To test the significance of differences in mood
-•	Sentiment analysis by using the NLTK library and TextBlob library for Python
-•	The sentiment.vader module was used to quantify the sentiment (positive/negative) in quotes
-•	The TextBlob library was used to quantify the subjectivity in quotes
+-	Hypothesis testing, in particular paired t-tests and Welch's t-test
+
+-   To test the significance of differences in mood
+
+-	Sentiment analysis by using the NLTK library and TextBlob library for Python
+
+-	The sentiment.vader module was used to quantify the sentiment (positive/negative) in quotes
+
+-	The TextBlob library was used to quantify the subjectivity in quotes
 The methods and their mathematical outlines are described in more detail in the bottom of the notebook delivery.
 
 ## Proposed timeline
@@ -51,20 +55,20 @@ __Milestone 2 (08.10-12.11)__
 
 __Milestone 3 (12.11-17.12)__
 
-__Week 1 + 2 (12/11 - 21/11)__:
+Week 1 + 2 (12/11 - 21/11):
 -	Reviewing feedback from milestone 2
 
-__Week 3 +4 (22/11 - 05/12)__:
+Week 3 +4 (22/11 - 05/12):
 -	Loaded the datasets. Added the necessary attributes for the different tasks
 -	Initial sentiment analysis for time trend and subsamples
 -	Launching the Jekyll webpage
 
-__Week 5 (06/11 - 12/11)__:
+Week 5 (06/11 - 12/11):
 -	Completed sentiment analysis for time trend
 -	Completed sentiment analysis for media outlets
 -	Finished draft for data story, including drafts for plots
 
-__Week 6 (13/11 - 17/11)__:
+Week 6 (13/11 - 17/11):
 -	Completed sentiment analysis for subsamples of men and women and politicians.
 -	Spell-checking and other polishing of the data story finished. 
 -	Putting together the final and complete notebook for the project
