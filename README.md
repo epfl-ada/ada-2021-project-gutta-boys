@@ -74,7 +74,11 @@ __Week 6 (13/11 - 17/11)__:
 ## Organization within the team:
 Each member had a main responsibility for the project. However, all members were involved in the processes by taking part in the decision-making and discussions, ensuring the best possible collaboration. The group have met weekly through the whole semester and more frequently in busy periods.
 Name: Responsibilities
+
 __Asbjørn__: General processing and analysis in early phases. Focus on the media outlet analysis. 
+
 __Benjamin__: Analysing the time trend of the dataset. Responsible for defining the statistical methods and ensuring uniform code quality. 
+
 __Marcus__: Processing and analysis involving the Wikidata set, i.e., men/women and politicians. 
+
 __Sigurd__: Written part of the final data story and visualizations, due 10 December.
