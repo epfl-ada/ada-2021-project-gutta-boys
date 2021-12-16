@@ -4,7 +4,7 @@
 
 In this project, we investigated how the mood in the media and the debate differs over time and subsamples. Our motivation was to understand the general trends in the mood, and how they are reflected through quotations in the media. For example, does the temper get better towards the weekend, or do we love Mondays deep inside? Is the mood better in the summer than in the winter? In addition, we analyzed the sentiment across subsamples of different media outlets and professions.
 
-Through the project, we examined the questions by doing sentiment analysis on the [Quotebank](https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf) data set from 2015 to 2020. The sentiment is measured utilizing the compound score from the ([Vader Lexicon](https://www.nltk.org/_modules/nltk/sentiment/vader.html) and the subjectivity scores from the [TextBlob](https://textblob.readthedocs.io/en/dev/quickstart.html) library.
+Through the project, we examined the questions by doing sentiment analysis on the [Quotebank](https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf) data set from 2015 to 2020. The sentiment is measured utilizing the compound score from the [Vader Lexicon](https://www.nltk.org/_modules/nltk/sentiment/vader.html) and the subjectivity scores from the [TextBlob](https://textblob.readthedocs.io/en/dev/quickstart.html) library.
 
 The resulting data story can be found [here](https://sigurdkampevold.github.io/media_mood/).
 
