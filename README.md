@@ -22,11 +22,11 @@ More specifically, we wanted to investigate the following:
 
 ## Key Insights
 
-There is no evidence for significant variations in the mood in media quotations across weekdays or months
-The mood in the media became significantly more negative in the first phase of the COVID-19 pandemic
-There are statistically significant differences in mood and subjectivity across media outlets. For example, sports and celebrity magazines tend to be more positive and subjective than daily newspapers
-There are no significant differences in mood in quotes from men and women
-On average, quotations from politicians are more negative than the average quotation
+- There is no evidence for significant variations in the mood in media quotations across weekdays or months
+- The mood in the media became significantly more negative in the first phase of the COVID-19 pandemic
+- There are statistically significant differences in mood and subjectivity across media outlets. For example, sports and celebrity magazines tend to be more positive and subjective than daily newspapers
+- There are no significant differences in mood in quotes from men and women
+- On average, quotations from politicians are more negative than the average quotation
 
 ## Additional datasets
 
