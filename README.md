@@ -28,7 +28,7 @@ More specifically, we wanted to investigate the following:
 - There are no significant differences in mood in quotes from men and women
 - On average, quotations from politicians are more negative than the average quotation
 
-## Additional datasets
+## Additional Data Sets
 
 To complete our project, we used the “Wikidata metadata about speakers” dataset provided by the course. The motivation for this was to study subsamples of the data.
 
@@ -89,7 +89,7 @@ Week 6 (13/11 - 17/11):
 - Updating Readme
 - Celebration of the data story and its tremendous visualizations and exciting insights.
 
-## Organization within the team:
+## Organization Within the Team:
 
 Each member had a main responsibility for the project. However, all members were involved in the processes by participating in the decision-making and discussions, ensuring the best possible collaboration. The group has met weekly throughout the semester and more frequently in busy periods.
 
