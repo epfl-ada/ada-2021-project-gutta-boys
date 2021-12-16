@@ -11,9 +11,11 @@ The research questions we started out with was all under the umbrella
 * “How does the mood in the media differ across time and subsamples?”
 
 More specifically, we wanted to investigate the following:
-•	Are there any differences in mood based on weekdays, weeks, or months?
-•	Are there any differences in the mood across media outlets?
-•	Do any subsamples differ from the general trends, for example, politicians or men/women?
+-	Are there any differences in mood based on weekdays, weeks, or months?
+
+-
+	Are there any differences in the mood across media outlets?
+-	Do any subsamples differ from the general trends, for example, politicians or men/women?
 
 ## Key insight
 -	There are no significant variations or trends in the mood in media quotations throughout the weekdays or months.
