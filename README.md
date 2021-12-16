@@ -2,19 +2,18 @@
 # An Investigation of the Mood in the Media Across Time and Subsamples
 
 ## Abstract
-In this project, we have investigated how the mood in the media and the debate changes over time and subsamples. The motivation for to project was to understand the general trends in the mood. For example, does the temper get better towards the weekend, or do we love Mondays deep inside? Is the mood better in the summer than in the winter? In addition, we have done analysis on the sentiment across subsamples of different media outlets and professions. 
+In this project, we have investigated how the mood in the media and the debate changes over time and subsamples. The motivation for the project was to understand the general trends in the mood. For example, does the temper get better towards the weekend, or do we love Mondays deep inside? Is the mood better in the summer than in the winter? In addition, we have done analysis on the sentiment across subsamples of different media outlets and professions. 
 
-Through the project we have examined these questions by doing a sentiment analysis on the Quotebank dataset from 2015 to 2020. The sentiment is measured using the compound score from the Vader Lexicon (NLTK library) and the subjectivity scores from the TextBlob library. 
+Through the project we have examined these questions by doing a sentiment analysis on the [Quotebank](https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf) dataset from 2015 to 2020. The sentiment is measured using the compound score from the Vader Lexicon (NLTK library) and the subjectivity scores from the TextBlob library. 
 
 ## Research questions
-The research questions we started out with was all under the umbrella 
-*“How does the mood in the media differ across time and subsamples?”
+The research questions we started out with was all under the umbrella:
+
+“How does the mood in the media differ across time and subsamples?”
 
 More specifically, we wanted to investigate the following:
 -	Are there any differences in mood based on weekdays, weeks, or months?
-
 -   Are there any differences in the mood across media outlets?
-
 -	Do any subsamples differ from the general trends, for example, politicians or men/women?
 
 ## Key insight
@@ -33,15 +32,11 @@ We used functions that matched politicians from the Wikidata dataset to quotes f
 
 ## Methods
 The main methods used in this project are:
--	Hypothesis testing, in particular paired t-tests and Welch's t-test
-
--   To test the significance of differences in mood
-
+-	Hypothesis testing, in particular paired t-tests and Welch's t-test, to test the significance of differences in mood
 -	Sentiment analysis by using the NLTK library and TextBlob library for Python
-
 -	The sentiment.vader module was used to quantify the sentiment (positive/negative) in quotes
-
 -	The TextBlob library was used to quantify the subjectivity in quotes
+
 The methods and their mathematical outlines are described in more detail in the bottom of the notebook delivery.
 
 ## Proposed timeline
