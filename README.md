@@ -4,7 +4,7 @@
 ## Abstract
 In this project, we have investigated how the mood in the media and the debate changes over time and subsamples. The motivation for the project was to understand the general trends in the mood. For example, does the temper get better towards the weekend, or do we love Mondays deep inside? Is the mood better in the summer than in the winter? In addition, we have done analysis on the sentiment across subsamples of different media outlets and professions. 
 
-Through the project we have examined these questions by doing a sentiment analysis on the [Quotebank](https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf) dataset from 2015 to 2020. The sentiment is measured using the compound score from the Vader Lexicon (NLTK library) and the subjectivity scores from the TextBlob library. 
+Through the project we have examined these questions by doing a sentiment analysis on the [Quotebank](https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf) dataset from 2015 to 2020. The sentiment is measured using the compound score from the Vader Lexicon ([NLTK](https://www.nltk.org/_modules/nltk/sentiment/vader.html) library) and the subjectivity scores from the [TextBlob](https://textblob.readthedocs.io/en/dev/quickstart.html) library. 
 
 ## Research questions
 The research questions we started out with was all under the umbrella:
