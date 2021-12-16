@@ -8,12 +8,13 @@ Through the project we have examined these questions by doing a sentiment analys
 
 ## Research questions
 The research questions we started out with was all under the umbrella 
-* “How does the mood in the media differ across time and subsamples?”
+*“How does the mood in the media differ across time and subsamples?”
 
 More specifically, we wanted to investigate the following:
 -	Are there any differences in mood based on weekdays, weeks, or months?
 
 -   Are there any differences in the mood across media outlets?
+
 -	Do any subsamples differ from the general trends, for example, politicians or men/women?
 
 ## Key insight
