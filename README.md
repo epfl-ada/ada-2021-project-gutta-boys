@@ -13,8 +13,7 @@ The research questions we started out with was all under the umbrella
 More specifically, we wanted to investigate the following:
 -	Are there any differences in mood based on weekdays, weeks, or months?
 
--
-	Are there any differences in the mood across media outlets?
+-   Are there any differences in the mood across media outlets?
 -	Do any subsamples differ from the general trends, for example, politicians or men/women?
 
 ## Key insight
