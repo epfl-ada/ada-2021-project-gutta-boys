@@ -6,6 +6,8 @@ In this project, we have investigated how the mood in the media and the debate c
 
 Through the project we have examined these questions by doing a sentiment analysis on the [Quotebank](https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf) data set from 2015 to 2020. The sentiment is measured utilizing the compound score from the ([Vader Lexicon](https://www.nltk.org/_modules/nltk/sentiment/vader.html) and the subjectivity scores from the [TextBlob](https://textblob.readthedocs.io/en/dev/quickstart.html) library.
 
+The resulting data story could be found [here](https://sigurdkampevold.github.io/media_mood/).
+
 ## Research questions
 
 The research questions we started out with was all under the umbrella:
@@ -20,11 +22,11 @@ More specifically, we wanted to investigate the following:
 
 ## Key Insights
 
-- There are no significant variations or trends in the mood in media quotations throughout the weekdays or months.
-- The mood in the media became significantly more negative in the first phase of the COVID-19 pandemic.
-- The mood and subjectivity across media outlets vary significantly. When subsampling the outlets based on category, clusters appear. Sports newspapers and celebrity magazines tend to be more positive and more subjective than daily newspapers.
-- The mood in the quotations said by men and women is very similar, but women are slightly more positive.
-- Quotations spoken by politicians are on average more negative than the average quotation in the data set.
+- There are no significant variations or trends in the mood in media quotations throughout the weekdays or months
+- The mood in the media became significantly more negative in the first phase of the COVID-19 pandemic
+- The mood and subjectivity across media outlets vary significantly. When subsampling the outlets based on category, clusters appear. Sports newspapers and celebrity magazines tend to be more positive and more subjective than daily newspapers
+- The mood in the quotations said by men and women is very similar, but women are slightly more positive
+- Quotations spoken by politicians are on average more negative than the average quotation in the data set
 
 [comment]: # "Change third insight according to final data story"
 
