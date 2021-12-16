@@ -82,4 +82,4 @@ __Benjamin__: Analysing the time trend of the dataset. Responsible for defining 
 
 __Marcus__: Processing and analysis involving the Wikidata set, i.e., men/women and politicians. 
 
-__Sigurd__: Written part of the final data story and visualizations, due 10 December.
+__Sigurd__: Written part of the final data story and visualizations.
